@@ -1,4 +1,4 @@
-game,date,age,team,opp,result,mp,fg,fga,fgp,three,threeatt,threep,ft,fta,ftp,orb,drb,trb,ast,stl,blk,tov,pts,game_score,minus_plus
+game,date,age,team,opp,result,mp,fg,fga,fgp,three,threeatt,ft,fta,ftp,orb,drb,trb,ast,stl,blk,tov,pts,game_score,minus_plus
 1,1984-10-26,21-252,CHI,WSB,W (+16),40:00,5,16,.313,0,0,,6,7,.857,1,5,6,7,2,4,5,16,12.5
 2,1984-10-27,21-253,CHI,MIL,L (-2),34:00,8,13,.615,0,0,,5,5,1.000,3,2,5,5,2,1,3,21,19.4
 3,1984-10-29,21-255,CHI,MIL,W (+6),34:00,13,24,.542,0,0,,11,13,.846,2,2,4,5,6,2,3,37,32.9
